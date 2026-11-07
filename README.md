@@ -21,7 +21,7 @@ the law of your country, and it is your own responsibility.
 
 ## More
 
-Demo page with a video of the program: PAGE_URL_PLACEHOLDER
+Demo page with a video of the program: https://panda-videodownloader.netlify.app
 
 Michael Yeruhimovich - Built with Claude Code
 
